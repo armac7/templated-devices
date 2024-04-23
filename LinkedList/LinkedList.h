@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Node.h"
+#include "../Node.h"
 
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H

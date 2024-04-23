@@ -1,6 +1,6 @@
 #include <iostream>
 #include "LinkedList.h"
-#include "Node.h"
+#include "../Node.h"
 #define NEWLINE std::cout << std::endl
 
 int main() {
